@@ -9,7 +9,7 @@ wellcome in my bio
 
 <div style="display:flex; width:100%; height:100%; ">
 
-<img src="https://i.pinimg.com/1200x/cb/17/a2/cb17a2495a5f75a42d1ef3fca3d93074.jpg" height="300">
+<img src="https://i.pinimg.com/1200x/cb/17/a2/cb17a2495a5f75a42d1ef3fca3d93074.jpg" height="200">
 
 
 ~~~
@@ -52,7 +52,7 @@ I軌襴暹 甯幗緲fi'　　 緲',纜　　贒i綟碕碚爺綴｡ ”'罨皴
 ⠀⠛⠛⠋⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠄ 
 ```
 
-<img src="https://i.pinimg.com/736x/4b/16/49/4b164981f173d836b9c8f4958e798d89.jpg" height="300">
+<img src="https://i.pinimg.com/736x/4b/16/49/4b164981f173d836b9c8f4958e798d89.jpg" height="200">
 
 </div>
 
