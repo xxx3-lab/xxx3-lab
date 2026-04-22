@@ -40,7 +40,6 @@
 <p align="center">
   <!-- Messaging / Bots -->
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff" />
-  <img src="https://img.shields.io-badge/Webhooks-555555?style=for-the-badge&logo=hookdeck&logoColor=ffffff" />
 </p>
 
 <p align="center">
@@ -58,13 +57,3 @@
   <img src="https://img.shields.io/badge/3x--ui-333333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
 </p>
-
-
-
-## 🔎 Short English version
-
-I am a software engineer focused on automation, messaging platforms and self‑hosted tools.  
-I connect services with n8n, build Telegram bots, and expose everything via dashboards or simple web UIs.
-
-My main tools are Python, Vue.js, n8n, Docker, NGINX/Caddy, Linux and Telegram Bot API.  
-I enjoy debugging unusual networking setups (VLESS, 3x-ui) and keeping infrastructure reproducible with Docker Compose and clear documentation.
