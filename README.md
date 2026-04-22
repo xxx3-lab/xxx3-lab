@@ -8,25 +8,6 @@
   <b>Software Engineer · Automation · Self‑hosting · Telegram bots</b>
 </p>
 
----
-
-```bash
-$ whoami
-> Roman Belyaev — software engineer focused on automation, messaging platforms and self‑hosted tools.
-
-$ whereami
-> somewhere between Linux servers, n8n workflows and Telegram chats (RU region)
-
-$ main_stack
-> Python, Vue.js, n8n, Docker, Telegram Bot API, NGINX/Caddy, Linux, VLESS/3x-ui.
-
-$ motto
-> make it reproducible, scriptable and boringly reliable.
-```
-
----
-
-## 🔧 Tech stack (icons inside)
 
 <p align="center">
   <!-- Languages -->
@@ -78,64 +59,7 @@ $ motto
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
 </p>
 
----
 
-## 🏗 What I build
-
-```txt
-[ news → n8n → Telegram ]
-[ photos → AI → storage → bot ]
-[ logs → Vue dashboard → quick actions ]
-[ services → Docker → NGINX/Caddy → public endpoints ]
-```
-
-- News & content pipelines  
-  n8n‑воркфлоу, который собирает новости и отправляет их в Telegram‑каналы/чаты.  
-  Автоматическая обработка медиа: фото из чатов → AI‑обработка → сохранение → выдача.
-
-- Bots & assistants  
-  Telegram‑боты как основной интерфейс к сервисам: поиск, уведомления, небольшие AI‑фичи.  
-  Работа с медиа и стикерами через Bot API, чтобы убрать лишнюю рутину из чата.
-
-- Dashboards & internal tools  
-  Дашборды на Vue.js для мониторинга сервисов, логов, ботов и пайплайнов.  
-  Простые русскоязычные интерфейсы для внутренних сервисов.
-
-- Infra & networking  
-  Docker‑окружения для ботов, n8n, прокси и вспомогательных сервисов.  
-  Эксперименты с VLESS/3x-ui, маршрутизацией трафика и сетевыми «краевыми случаями».
-
----
-
-## 📜 Principles
-
-```txt
-1) Practical > Hype
-   решаем задачу, а не «подбираем модный стек».
-
-2) Reproducible by default
-   docker-compose, .env.example, шаги деплоя — без скрытых настроек.
-
-3) Docs without noise
-   минимализм, технический тон, никаких маркетинговых описаний.
-```
-
----
-
-## 🌐 Languages
-
-- Russian — основной язык интерфейсов и внутренней документации.  
-- English — код, публичные README, задачи и обсуждения.
-
----
-
-## 📫 Contact
-
-- Telegram: @your_handle_here  
-- Email: your_mail@example.com  
-- Или просто откройте issue в одном из репозиториев.
-
----
 
 ## 🔎 Short English version
 
