@@ -1,5 +1,5 @@
 <!-- ASCII + NEOFETCH STYLE HEADER -->
-
+<body style="dispay:flex">
 <p align="center">
 <img src="/img/imge.png" >
 </p>
@@ -57,3 +57,4 @@
   <img src="https://img.shields.io/badge/3x--ui-333333?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
 </p>
+</body>
