@@ -17,7 +17,7 @@
   <tr>
     <td><img src="https://i.pinimg.com/736x/b5/5f/3d/b55f3d527e434ae3a93ed58906acd2c5.jpg"/></td>
     <td>Ячейка 2</td>
-    <td>Ячейка 3</td>
+    <td><img src="https://i.pinimg.com/736x/e6/70/16/e6701629e93eadcfa7a8b7e4121aae8f.jpg"/></td>
   </tr>
   <tr>
     <td>Ячейка 1</td>
