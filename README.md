@@ -15,9 +15,9 @@
 
 <table border="1" align="center">
   <tr>
-    <th>Заголовок 1</th>
-    <th>Заголовок 2</th>
-    <th>Заголовок 3</th>
+    <td><img url="https://i.pinimg.com/736x/b5/5f/3d/b55f3d527e434ae3a93ed58906acd2c5.jpg"/></td>
+    <td>Ячейка 2</td>
+    <td>Ячейка 3</td>
   </tr>
   <tr>
     <td>Ячейка 1</td>
