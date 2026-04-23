@@ -13,7 +13,7 @@
 </p>
 
 
-<table border="1" >
+<table>
 
   <tr>
     <td><img src="https://i.pinimg.com/736x/b5/5f/3d/b55f3d527e434ae3a93ed58906acd2c5.jpg"/></td>
