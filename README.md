@@ -13,7 +13,7 @@
 </p>
 
 
-<table border="1" align="center">
+<table border="1" >
   <tr>
     <td><img src="https://i.pinimg.com/736x/b5/5f/3d/b55f3d527e434ae3a93ed58906acd2c5.jpg"/></td>
     <td><img src="https://i.pinimg.com/736x/da/54/c6/da54c6c07e9c11187b193e2aeda28463.jpg"/></td>
@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><img src="https://i.pinimg.com/736x/ad/e0/db/ade0dbbb40bf51b461ed212a07860664.jpg"/></td>
-    <td colspan="2" raw="2"><img src="https://i.pinimg.com/736x/ad/e0/db/ade0dbbb40bf51b461ed212a07860664.jpg"/></td>
+    <td colspan="2"><img src="https://i.pinimg.com/736x/ad/e0/db/ade0dbbb40bf51b461ed212a07860664.jpg"/></td>
   </tr>
   <tr>
     <td><img src="https://i.pinimg.com/736x/97/8d/ac/978dacaaffd4ff96820d436355bd8eda.jpg"/></td>
