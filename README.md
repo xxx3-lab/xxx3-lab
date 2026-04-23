@@ -1,8 +1,14 @@
 <!-- ASCII + NEOFETCH STYLE HEADER -->
 <body style="dispay:flex">
-<p align="center">
+
+<!-- <p align="center">
 <img src="/img/imge.png" >
-</p>
+</p> -->
+
+<img src="/img/black_run_8fps.gif" />
+<img src="/img/blue_run_8fps.gif" />
+<img src="/img/purple_run_8fps.gif" />
+
 
 <p align="center">
   <b>Software Engineer · Automation · Self‑hosting · Telegram bots</b>
