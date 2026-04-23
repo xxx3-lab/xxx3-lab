@@ -13,7 +13,7 @@
 </p>
 
 
-<table border="1">
+<table border="1" align="center">
   <tr>
     <th>Заголовок 1</th>
     <th>Заголовок 2</th>
