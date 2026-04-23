@@ -8,9 +8,9 @@
 <!-- <img src="/img/black_run_8fps.gif" />
 <img src="/img/blue_run_8fps.gif" />
 <img src="/img/purple_run_8fps.gif" /> -->
-
-<img src="/img/cat.gif" align="center" style="height:200px; width:200px"/>
-
+<p align="center">
+<img src="/img/cat.gif"/>
+</p>
 
 <p align="center">
   <b>Software Engineer · Automation · Self‑hosting · Telegram bots</b>
